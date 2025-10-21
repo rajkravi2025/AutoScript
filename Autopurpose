@@ -1,0 +1,14 @@
+Public class{
+
+public static void main(String[]args){
+int a=2;
+String name="Test";
+Char c='w';
+boolean s=True;
+double d=2.3;
+
+System.out.println("This is sample program");
+
+}
+
+}
