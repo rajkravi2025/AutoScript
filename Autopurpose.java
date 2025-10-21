@@ -1,4 +1,4 @@
-Public class{
+Public class Autopurpose{
 
 public static void main(String[]args){
 int a=2;
@@ -12,6 +12,7 @@ System.out.println(name);
 System.out.println(a);
 System.out.println(c);
 System.out.println(d);
+//This code is updated for some changes.So I will merge it.
 }
 
 }
