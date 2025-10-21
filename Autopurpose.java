@@ -12,7 +12,8 @@ System.out.println(name);
 System.out.println(a);
 System.out.println(c);
 System.out.println(d);
-  System.out.println("This is samplUpdate check in GITHUB")
+  System.out.println("This is samplUpdate check in GITHUB");
+    System.out.println("This is another update check file");
 //This code is updated for some changes.So I will merge it.
 }
 
